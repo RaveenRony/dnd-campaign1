@@ -1,0 +1,13 @@
+*The Material Plane*
+
+Valtorra is the vast and vibrant material plane where the threads of magic, nature, and divinity are woven into the fabric of mortal existence. It is a realm shaped by ancient powers and now sustained by the ambitions and conflicts of its denizens. Though once unified in harmony, Valtorra is now a plane of divisions — between continents, cultures, and even between planes bleeding into its fragile borders.
+
+Continents other than [[Elaria]] that are also on the plane of Valtorra include.
+1. Thiranys — *"Industrial militarism, rigid order, and mortal supremacy."* 
+	 A continent filled with inventors and their inventions of war. The elite and noble of the continent have long tried to erase the very existence of divinity and believe in mortal advancements. Smokestacks and titanic forges dot the land, while automatons and arcane railways enforce imperial control. The gods are outlawed here—and worship is punishable by death. 
+2. Myrraline — *"Nature ascendant, primal spirits, and territorial symbiosis."* 
+	A continent that is dominated by the wild and forests, a land that only blessed druids are allowed to visit. The entire continent is protected by the Old Gods and is governed by Concords of Beasts, sentient animal monarchies that hold court beneath living canopies. Mortal settlements are scarce and cling to forest edges, often relying on uneasy pacts with plantfolk or elemental guardians. Druidic orders speak of [[Thal'Zirra]] bleeding into the land here more than anywhere else on Valtorra.
+3. Uln’Dakar — *"Living song, fire spirits, subterranean civilizations, elemental conflict."*
+	Powerful elemental avatars of flame and sound that birthed the first dragons live in this continent. Dotted with volcanoes and cities carved out of obsidian, the primordial dragons, known to have fought Gods reside here. Their language so complex that it is fabled to shape reality itself. The communities that can handle the heat exist below ground and in subterranean regions.
+4. Aeltherion — *"Isolation, reflection, and ancestral memory."*
+	Aeltherion is a frozen expanse carved from magical ice and sentient crystal. The land is sparsely populated by tribes who commune with ancestral echoes stored in shimmering glass formations. Glacial temples stretch skyward, and it’s said the stars are clearer here than anywhere else in Valtorra. Ancient beings of light, known as the Goliaths, are rumored to slumber beneath the ice.
