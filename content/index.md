@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Campaign 1
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the beginning of our journey
