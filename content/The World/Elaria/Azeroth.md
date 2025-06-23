@@ -6,7 +6,6 @@ Azeroth is the proud seat of the human empire, known for its knightly orders, fl
 Azeroth is heart of the trading between The Triumvirate with several outposts of the other islands in its major city **Greenhaven**. The major trade from Greenhaven being fish and crops procured from **Pinewood**, which is a village that is surrounded by a thick forest that has been thinning over the ages to support the growth of the human empire. The main deity of these lands being Boldrei for Pinewood and Kol Korran in Greenhaven. 
 
 <h4>Greenhaven</h4>
-
 ![[static/images/Greenhaven.png|400]] <br>
 The capital of Azeroth and the seat of human power. Walled and divided into noble districts, trade quarters, and arcane enclaves. A beacon of law and pride, now under pressure as instability rises from their heirless king aging. The Wizard Tower of Elaria being maintained nearby has started to cause an influx of powerful magic users and a surge of offspring that are blessed with the power of mana. The Wizard Tower acts as a hub connecting the isles for ease of travel and communication. Current head of the Wizard Tower being a human Wizard named **Zarkon Sonier**.
 
@@ -20,7 +19,6 @@ Major Locations
 - Church of Aureon - Center of the City - Grand domed temple dedicated to Aureon. It mainly acts as a place of worship and legal archive to the common people but to the unruly, the church is known to act as a small smuggling ring that distribute illegal items.
 
 <h4>Pinewood</h4>
-
 ![[static/images/Pinewood.png|300]] <br>
 A small forest-bordering village nestled near the southern coastline. Once a logging and hunting town, now has turned into the main hub of crops, fish and timber for the main city, Greenhaven. Governed by Mayor Eliza that was elected by King Arthur Grant II to maintain a good relationship with the commoners. Misty, quiet, wary. Locals speak of “ghost winds” and refuse to enter the forest at night with rumours often spread by Old Man Jeff. Pinewood was plagued by vanishing animals, strange lights in the forest, and whispers of old things waking in the deep woods.
 
