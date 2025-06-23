@@ -7,7 +7,7 @@ Azeroth is heart of the trading between The Triumvirate with several outposts of
 
 <h4>Greenhaven</h4>
 
-![[static/images/Pasted image 20250623175525.png|400]] <br>
+![[static/images/Greenhaven.png|400]] <br>
 The capital of Azeroth and the seat of human power. Walled and divided into noble districts, trade quarters, and arcane enclaves. A beacon of law and pride, now under pressure as instability rises from their heirless king aging. The Wizard Tower of Elaria being maintained nearby has started to cause an influx of powerful magic users and a surge of offspring that are blessed with the power of mana. The Wizard Tower acts as a hub connecting the isles for ease of travel and communication. Current head of the Wizard Tower being a human Wizard named **Zarkon Sonier**.
 
 Major Locations
@@ -21,7 +21,7 @@ Major Locations
 
 <h4>Pinewood</h4>
 
-![[static/images/Pasted image 20250623175152.png|400]] <br>
+![[static/images/Pinewood.png|300]] <br>
 A small forest-bordering village nestled near the southern coastline. Once a logging and hunting town, now has turned into the main hub of crops, fish and timber for the main city, Greenhaven. Governed by Mayor Eliza that was elected by King Arthur Grant II to maintain a good relationship with the commoners. Misty, quiet, wary. Locals speak of “ghost winds” and refuse to enter the forest at night with rumours often spread by Old Man Jeff. Pinewood was plagued by vanishing animals, strange lights in the forest, and whispers of old things waking in the deep woods.
 
 Major Locations
