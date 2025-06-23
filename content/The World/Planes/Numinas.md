@@ -1,6 +1,7 @@
 *The Dreamfold*<br>
 *Dreams, possibility, and forgotten truths.*
 
+![[static/images/numinas.png|500]] <br>
 Numinas is the shared dream of all sentient beings — a realm that constantly shifts based on the fears, hopes, and imaginations of the living. Time has no meaning here, and logic folds like paper.
 
 **Inhabitants**:

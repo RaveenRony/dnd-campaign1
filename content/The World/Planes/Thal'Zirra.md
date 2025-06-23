@@ -1,6 +1,6 @@
 *The Verdant Coil*<br>
 *Wild growth, primal spirits, and cyclical life.*
-
+![[static/images/thalzirra.png|400x550]] <br>
 Thal’Zirra is an untamed, overgrown world where titanic trees pierce through floating islands, and vines strangle stone and sky alike. Every creature here is locked in a raw and unending struggle for survival and rebirth.
 
 **Inhabitants**:

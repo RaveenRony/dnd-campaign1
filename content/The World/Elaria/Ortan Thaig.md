@@ -7,6 +7,8 @@ The militaristic might of Ortan Thaig has no rivals due to the weapons that they
 
 <h4>Durangal</h4>
 
+![[static/images/durangal.png|500]] <br>
+
 A surface-dwelling city that acts as the face of Ortan Thaig to the rest of the isles. While trade and diplomacy flow through it, the culture remains dwarven to the core: honor, craft, and strength. Its forges run day and night, producing the finest weapons and armor exported across the Triumvirate. The governing **Iron Council** made up of **Commander Arden** and **Commander Kiliinn** answer directly to the **General Dasoreth** in Cragmore.
 
 Major Locations
@@ -17,6 +19,7 @@ Major Locations
 
 <h4>Cragmore</h4>
 
+![[static/images/cragmore.png|300]] <br>
 A subterranean marvel, Cragmore sprawls beneath the eastern ridges like a living machine. Dwarves here are born, live, and die under stone. Everything from the clanging of steel to the grinding of ancient gearworks forms a deafening symphony of industry. Other species are rarely allowed to witness the complex and beautiful techniques of the smiths. The mountain range also houses the greatest military force amongst the Shattered Isles. This city answers to the **General**, a title earned through trial by fire in the ancient **Foundry Crucible**. Cragmore is a self-sustaining bastion and a fortress unlike any other, but at the heart of this marvel lies a mystery that has started to wake.
 
 Major Locations

@@ -1,5 +1,6 @@
 *The Material Plane*
 
+![[static/images/valtorra.png|400]] <br>
 Valtorra is the vast and vibrant material plane where the threads of magic, nature, and divinity are woven into the fabric of mortal existence. It is a realm shaped by ancient powers and now sustained by the ambitions and conflicts of its denizens. Though once unified in harmony, Valtorra is now a plane of divisions — between continents, cultures, and even between planes bleeding into its fragile borders. The Planes [[Solareth]], [[Draxxus]], [[Numinas]] and [[Thal'Zirra]] bleed into each other as they surround the Material Plane and influence it.
 
 Continents other than [[Elaria]] that are also on the plane of Valtorra include.

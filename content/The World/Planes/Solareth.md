@@ -1,6 +1,7 @@
 *The Luminous Sea on which the Sun never sets.*<br>
 *Harmony, memory, and divine judgment.*
 
+![[static/images/solareth.png|500]] <br>
 Solareth is a plane bathed in endless light that ripples like ocean waves. The land is made of glasslike crystal reefs that float in the radiant waters. Souls who lived lives of balance and honour sometimes ascend to this plane as "Lumen" — beings of light and wisdom.
 
 **Inhabitants**:
