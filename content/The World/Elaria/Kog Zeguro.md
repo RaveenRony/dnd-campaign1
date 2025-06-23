@@ -6,6 +6,7 @@ Once known as **The Wyld**, this beautiful island was teeming with life and was 
 Now, the isle pulses with the sound of war drums and the scent of smoke, as its people seek to reclaim ancient honor through conquest, ritual, and strength. Their current leader, **Warlord Ghor'nak**, has unified nearly all of the major clans into a new tribe known as **Kog Zeguro** — the name now given to the island itself. However, two clans, **Nor Grutta** and **Rakun**, remain in defiance, locked in bitter conflict with the dominant tribe.
 
 <h4>Kog Zeguro</h>
+
 Current Leader - **Warlord Ghor'nak**
 
 The unified force under Warlord Ghor’nak, the Kog Zeguro are fire-wreathed warriors who believe the Orcish soul has been dulled by centuries of peace. They embrace the old rites — **Ash Trials**, **Flame-Vision Quests**, and **Sky-Pyre Burials** — to return to a purer, more brutal way of life. Blood rituals, conducted under red moons, are said to stir ancestral spirits that guide the warriors in battle. Ghor’nak claims these visions are sent by the spirit of **Ugrak the World-Splitter**, a mythical orc who once shattered a mountain with his rage.
@@ -14,6 +15,7 @@ The unified force under Warlord Ghor’nak, the Kog Zeguro are fire-wreathed war
 - Beliefs - Strength, legacy, and ancestral rage are the only worthy virtues
 - Goals - Total conquest of the island to bring forth the reawakening ritual of **The Ember Oath** — a spiritual war to ignite all orcish blood with "true purpose"
 <h4>Nor Grutta</h>
+
 Current Leader - **Admiral Vrask Tidecutter**
 
 The Nor Grutta are pragmatic seafarers, naval engineers, and fierce coastal warriors who believe that power lies in **adaptation and precision**, not blind rage. After being pushed to the coastal cliffs and bays during the rise of Kog Zeguro, they began fortifying natural harbors and constructing the **Ironjaw Fleet** — a collection of agile warships, many made from scavenged wrecks and enchanted sea-wood from ships of other isles.
@@ -25,6 +27,7 @@ They hope to establish an independent **naval stronghold**, reclaiming trade rou
 - Goals - Naval supremacy and coastal independence
 
 <h4>Rakun</h>
+
 Current Leader - **Sage of Sixth Quill, Irzhan**
 
 Inside the inner forests lie the secretive enclave of the **Rakun**, a reclusive and scholarly clan of Orcs who have rejected the call to war. Descendants of sages, poets, and star-readers, they believe the madness is a corruption of the orcish soul caused by **an ancient artifact that was uncovered from The Wyld**.
@@ -33,4 +36,4 @@ They maintain a vast underground library known as the **Vault of Vurn**, built o
 
 - Totems - Owls on Grey Banners
 - Beliefs - The soul must be sharpened by thought, not war
-- Goals - To uncover the source of the Orcish rage, and stop **Ghor'nak** before he leads the Orcs into oblivion
+- Goals - To uncover the source of the Orcish rage, and stop **Ghor'nak** before he leads the Orcs into oblivion.

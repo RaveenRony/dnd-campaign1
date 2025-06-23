@@ -8,9 +8,11 @@ At the north of this frozen kingdom, hidden between the mountain ranges lies the
 The only other inhabitants of the isle are the **Frost Giants**, towering, honor-bound, and warlike, they believed themselves to be chosen by the elements to shape the world’s harshest lands. But the unnatural winter was too much for them, as they turned to Iry, who promised them warmth, survival, and purpose. In return, the Frost Giants became his **Runebound**, branded with flaming sigils that burn beneath their icy skin. Now they serve — not by loyalty, but by chains of magic and memory they can no longer undo.
 
 <h4>Winterspire Ruins</h4>
+
 Hidden between mountains of ice and grief, this was once the seat of a proud Goliath and Dark Elf alliance. Now its towers crack under the weight of frost. Ice has consumed the feast halls and libraries. Iry has twisted the castle into his lair, guarded by Frost Giants bound in chains of dragonbone and runes.
 
 <h4>Frost Giant Tribes</h>
+
 1. The Emberbound
 	_"Those Who Serve the Flame."_  
 	Once proud, now enslaved. These are the giants branded by Iry himself. Their skin is marked by molten cracks, and their eyes glow red in the cold. They guard the **Winterspire Ruins** and obey the dragon’s will without question — though some whisper of rebellion.
