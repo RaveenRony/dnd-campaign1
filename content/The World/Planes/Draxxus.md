@@ -1,4 +1,4 @@
-*The Maw Below*
+*The Maw Below*<br>
 *Consumption, corruption, and endless hunger.*
 
 Draxxus is a rotting labyrinth of fleshy tunnels, rusted chains, and magma rivers. It is said to be the devouring mouth of a dead god, twisted into a plane by infernal forces. Pain is currency, and betrayal is power.

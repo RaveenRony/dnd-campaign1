@@ -1,4 +1,4 @@
-*"The Kingdom Entombed"*
+*"The Kingdom Entombed"* <br>
 *Frozen Legacy, Draconic Tyranny, and Lost Relationships*
 
 Once a flourishing land shared by **Dark Elves** in their sunless caverns and proud **Goliath tribes** who roamed the peaks, **Frostholm** has since become an icy grave. 200 years after the Shattering, an unnatural winter settled over the land — slow and suffocating — until even the warmth of memory froze.

@@ -1,4 +1,4 @@
-*"The Land Governed by The Stars"*
+*"The Land Governed by The Stars"*<br>
 *Politics, Dying World Tree, and Fey influence*
 
 Seluris is a land of shimmering forests, and age-old magic. The land was occupied by the surviving Elves after **The Shattering**, being drawn to the last remaining fragment of the World Tree and all seemed well till the High Elves from took the seat of power, pushing the Wood Elves away. Beneath the splendor of the great island, there was unrest brewing. The High Elves of Thelidorei cling to tradition while the outer regions, shared with Humans, Half-Orcs, and Dark Elves, strain under inequality and racism. The Feywild bleeding into Avloria Grove — subtly, seductively, dangerously, turning it into a swamp. 

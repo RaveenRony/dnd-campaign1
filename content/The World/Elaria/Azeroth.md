@@ -1,4 +1,4 @@
-*"The Land of Kings"*
+*"The Land of Kings"* <br>
 *Monarchy, Arcane Manipulation, and Courtly Intrigue*
 
 Azeroth is the proud seat of the human empire, known for its knightly orders, flourishing trade, and grand cities. But after the Shattering, a sense of decay and forgotten sin lingers in its corners. Being mortal compared to their allies, the humans had always kept caution against other species until the current king **Arthur Grant II** who pushed for the formation of [[The Triumvirate]]. 

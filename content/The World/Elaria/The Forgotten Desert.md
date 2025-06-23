@@ -1,4 +1,4 @@
-*"The Wastes"*
+*"The Wastes"*<br>
 *Ancient Temples, Madness, and Devouring Winds*
 
 Where once there were hills, forests, or even oceans — now stands only an arid, blasted expanse. The **Forgotten Desert** does not appear on pre-Shattering maps. No one remembers what it was. The winds howl through shattered stone, and time itself seems to blur within its heat. Ancient temples, and crypts dot the sands — remnants of a civilization no one recalls. Even the gods seem absent here. Some scholars whisper it was once the heart of a powerful magical empire that erased itself to escape something worse.

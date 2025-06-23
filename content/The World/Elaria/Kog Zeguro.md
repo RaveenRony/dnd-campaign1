@@ -1,4 +1,4 @@
-*"The Dominion of Blood"*
+*"The Dominion of Blood"* <br>
 *Tribal Community, Brutality and Spiritual Warfare*
 
 Once known as **The Wyld**, this beautiful island was teeming with life and was shared peacefully by Orcish clans and Human settlements. The two species lived in harmony for nearly 600 years after **The Shattering** — until something primal awoke within the Orcs. A rage unlike any before swept through their clans, driving them to unite and expel all outsiders, which they successfully did in the year 598. The mysterious phenomenon that sparked this fury remains unexplained, unknown to both past and present scholars.

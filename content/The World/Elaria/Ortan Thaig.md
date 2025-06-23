@@ -1,4 +1,4 @@
-*"The Heart of Stone"*
+*"The Heart of Stone"*<br>
 *"Military, Honour and, Dwarven Invention"*
 
 The dwarven kingdom of Ortan Thaig is carved deep into the mountains and hearts of its people. A land ruled by militaristic might and honor, its cities are marvels of engineering and durability. While dwarves of old forged kingdoms underground, Ortan Thaig blends tradition with innovation, using massive gearworks and magma-powered foundries to fuel its industry. In this era, it is the bastion of smithing, warfare, and mechanical ingenuity among the Shattered Isles. But whispers grow in the mines of things awakening deep below — ancient forges gone cold now roar once more.
