@@ -1,6 +1,8 @@
 ---
 title: Campaign 1
 ---
+![[Pasted image 20250623150646.png]]
+
 **A world once whole, now broken — and on the edge of unraveling again.**
 
 A millennium ago, the continent of **Elaria** shattered in a cataclysm known only as **The Shattering** — a world-splitting event that rained fire from the skies and tore the land into seven scattered isles. Now, the **Shattered Isles** stand as a fragmented remnant of a lost age, each island scarred by time, mystery, and creeping corruption.
