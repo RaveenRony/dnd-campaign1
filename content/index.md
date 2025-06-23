@@ -1,7 +1,7 @@
 ---
 title: Campaign 1
 ---
-![[Pasted image 20250623150646.png]]
+![[static/images/1.png#center|150]]
 
 **A world once whole, now broken — and on the edge of unraveling again.**
 
