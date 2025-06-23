@@ -5,7 +5,7 @@ Once known as **The Wyld**, this beautiful island was teeming with life and was 
 
 Now, the isle pulses with the sound of war drums and the scent of smoke, as its people seek to reclaim ancient honor through conquest, ritual, and strength. Their current leader, **Warlord Ghor'nak**, has unified nearly all of the major clans into a new tribe known as **Kog Zeguro** — the name now given to the island itself. However, two clans, **Nor Grutta** and **Rakun**, remain in defiance, locked in bitter conflict with the dominant tribe.
 
-<h4>Kog Zeguro</h>
+<h4>Kog Zeguro</h4>
 
 Current Leader - **Warlord Ghor'nak**
 
@@ -14,7 +14,8 @@ The unified force under Warlord Ghor’nak, the Kog Zeguro are fire-wreathed war
 - Totems - Burning Axes on Red Flame-Touched Banners
 - Beliefs - Strength, legacy, and ancestral rage are the only worthy virtues
 - Goals - Total conquest of the island to bring forth the reawakening ritual of **The Ember Oath** — a spiritual war to ignite all orcish blood with "true purpose"
-<h4>Nor Grutta</h>
+
+<h4>Nor Grutta</h4>
 
 Current Leader - **Admiral Vrask Tidecutter**
 
@@ -26,7 +27,7 @@ They hope to establish an independent **naval stronghold**, reclaiming trade rou
 - Beliefs - Worships the Ocean and consider it as the true god
 - Goals - Naval supremacy and coastal independence
 
-<h4>Rakun</h>
+<h4>Rakun</h4>
 
 Current Leader - **Sage of Sixth Quill, Irzhan**
 

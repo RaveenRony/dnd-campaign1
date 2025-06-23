@@ -5,7 +5,7 @@ Seluris is a land of shimmering forests, and age-old magic. The land was occupie
 
 The Elves considered themselves "kissed" by mana itself and blessed by Aureon himself as they had great mastery over mana. Having Fey ancestry, they considered themselves to be at the forefront of magic, with the cities built utilising ley lines and their powers. The current king Aerion Starbloom and his neice Lady Sylwen Duskwhisper, took care of the negotiations with [[Azeroth]]'s King and [[Ortan Thaig]]'s military leaders to form [[The Triumvirate]]. Major exports being handled by the noble families that reside in Thelidorei.
 
-<h4>Thelidorei</h>
+<h4>Thelidorei</h4>
 
 The city is referred to as The Gilded City only by the High Elves, with the Wizard Tower acting as a hub of transportation, maintained by officials of TSA (Thelidorei Security Authority). The city was said to be founded by the Starbloom family along with the noble house Vaelora, but for reasons unknown, the Starbloom family was named as the royal family. At the center of the grant city is the **Palace of the Stars**, where the **Council** decides on fate of Seluris. The outer ring of the city, known as the **Outer Quarter**, houses humans, orcs, and dark elves in stone-and-wood buildings — a more urban sprawl that supports trade, artisanry, and travel.
 
@@ -23,7 +23,7 @@ Noble Houses
 - House Joestar - Symbol: A Red Hilt - *"Honour above all"* - Oversee the training of the militant force in Seluris - Leader: Erina Joestar (current after Zeish Joestar (deceased: 11th Nymm 998))
 - House Aurelian - Symbol: A Golden Wheel - *"Prosperity is the root of power"* - Oversee the major trades and finances of Seluris - Leader: Edris Aurelian
 
-<h4> Avloria Grove</h>
+<h4> Avloria Grove</h4>
 
 An ancient forest that stretches north of Thelidorei, housing a fragment of **The World Tree**, which is said to be older than recorded time. The Grove is where druids and wild Fey gather, and is the seat of the **Archdruid**, a being of immense power, who picks out their heir from their students. The forest faced a decay of **The World Tree** causing the grove to transform into a swamp, which started to cause massive panic to the forest nymphs and Wood Elves. With their current Archdruid, **Faelwyn Oakenshade** in Thelidorei, the responsibility of finding a cure fell upon her apprentice.
 

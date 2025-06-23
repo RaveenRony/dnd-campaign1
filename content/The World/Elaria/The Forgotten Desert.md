@@ -5,7 +5,7 @@ Where once there were hills, forests, or even oceans — now stands only an arid
 
 Few dare to traverse its shifting terrain. Those who do speak of **mirages that weep**, statues that **bleed sand**, and temples **not built by mortal hands**. The skies above the desert shimmer with strange lights at night, and compasses fail to function. The desert seems to move, to resist being mapped, as if it wants to stay forgotten. There are no known civilizations left — only wandering scavengers, ancient automatons guarding buried truths, and half-mad hermits who claim to have spoken with gods long dead.
 
-<h4>Temple of the Shifting Eye</h>
+<h4>Temple of the Shifting Eye</h4>
 
 _“Watchers Beyond the Dunes”_  
 Located in the deepest part of the desert, this massive ziggurat-like structure is visible only during the eclipse. The temple is dedicated to **an unnamed entity of foresight and illusion**, once revered by a lost civilization that believed reality was a dream shared by higher beings. Its golden walls shift and shimmer like heat mirages, and no entrance remains in the same place twice.
@@ -14,7 +14,7 @@ Inside are **floating rooms**, **gravity-defying halls**, and **memory-lock door
 
 >*Rumour: The inner sanctum contains a mirror said to show not your reflection, but the version of you that made every wrong choice.*
 
-<h4>Temple of the Eightfold Serpent</h>
+<h4>Temple of the Eightfold Serpent</h4>
 
 _“The Hissing Choir of Stone”_  
 A partially buried temple dedicated to an ancient pantheon of serpent gods believed to predate even the Sovereign Host and Dark Eight. Each chamber is carved in the shape of a coiling serpent, with murals depicting visions of cosmic struggle between scaled deities of air, fire, and darkness.

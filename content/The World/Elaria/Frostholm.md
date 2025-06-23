@@ -11,7 +11,7 @@ The only other inhabitants of the isle are the **Frost Giants**, towering, honor
 
 Hidden between mountains of ice and grief, this was once the seat of a proud Goliath and Dark Elf alliance. Now its towers crack under the weight of frost. Ice has consumed the feast halls and libraries. Iry has twisted the castle into his lair, guarded by Frost Giants bound in chains of dragonbone and runes.
 
-<h4>Frost Giant Tribes</h>
+<h4>Frost Giant Tribes</h4>
 
 1. The Emberbound
 	_"Those Who Serve the Flame."_  
