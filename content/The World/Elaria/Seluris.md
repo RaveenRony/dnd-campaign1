@@ -7,7 +7,7 @@ The Elves considered themselves "kissed" by mana itself and blessed by Aureon hi
 
 <h4>Thelidorei</h4>
 
-![[static/images/Thelidorei.png|400]]<br>
+![[static/images/thelidorei.png|400]]<br>
 The city is referred to as The Gilded City only by the High Elves, with the Wizard Tower acting as a hub of transportation, maintained by officials of TSA (Thelidorei Security Authority). The city was said to be founded by the Starbloom family along with the noble house Vaelora, but for reasons unknown, the Starbloom family was named as the royal family. At the center of the grant city is the **Palace of the Stars**, where the **Council** decides on fate of Seluris. The outer ring of the city, known as the **Outer Quarter**, houses humans, orcs, and dark elves in stone-and-wood buildings — a more urban sprawl that supports trade, artisanry, and travel.
 
 Major Locations
