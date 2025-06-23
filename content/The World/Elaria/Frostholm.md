@@ -9,16 +9,18 @@ The only other inhabitants of the isle are the **Frost Giants**, towering, honor
 
 <h4>Winterspire Ruins</h4>
 
+![[static/images/winterspire-ruins.png|250]] <br>
 Hidden between mountains of ice and grief, this was once the seat of a proud Goliath and Dark Elf alliance. Now its towers crack under the weight of frost. Ice has consumed the feast halls and libraries. Iry has twisted the castle into his lair, guarded by Frost Giants bound in chains of dragonbone and runes.
 
 <h4>Frost Giant Tribes</h4>
 
-1. The Emberbound
+![[static/images/frost-giants.png|250]] <br>
+1. The Emberbound <br>
 	_"Those Who Serve the Flame."_  
 	Once proud, now enslaved. These are the giants branded by Iry himself. Their skin is marked by molten cracks, and their eyes glow red in the cold. They guard the **Winterspire Ruins** and obey the dragon’s will without question — though some whisper of rebellion.
-2. The Witherhowl Clan
-	_"The Wandering Wraiths."_  
+2. The Witherhowl Clan <br>
+	_"The Wandering Wraiths."_  <>
 	Survivors who fled the dragon’s rule. These Giants drifted through the glaciers and peaks, to the Southern most part of the Isle to escape Iry's wrath. They wear furs of ancient mammoths and chant to the stars, trying to cleanse the land.
-3. The Stonecallers
+3. The Stonecallers <br>
 	*"Keepers of the Old Runes."*
 	Giants who has denied the help from the Red Dragon. Their seers try to unlock forgotten runes that might break Iry’s bindings — or resurrect the storm-spirits of old to help free their brethren.
