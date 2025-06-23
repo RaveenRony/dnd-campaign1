@@ -11,4 +11,6 @@ The Shattered Isles divided into
 4. [[Kog Zeguro]] - Widely populated by Orcs
 5. [[Stormwreck Island]] - Covered by wrecks and storms
 6. [[Frostholm]] - Submerged in snow and ice storms. Only living creatures being the last Giants.
-7. [[The Forgotten Desert]] - No known civilizations, dotted with ancient temples that have been destroyed by the sand and intense heat
+7. [[The Forgotten Desert]] - No known civilizations, dotted with ancient temples that have been destroyed by the sand and intense heat 
+<br>
+![[static/images/Elaria.jpg]]
