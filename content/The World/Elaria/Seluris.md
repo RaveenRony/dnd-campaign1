@@ -26,7 +26,7 @@ Noble Houses
 
 <h4> Avloria Grove</h4>
 
-![[static/images/avloria_grove.png|400]]<br>
+![[static/images/avloria_grove.png|300]]<br>
 An ancient forest that stretches north of Thelidorei, housing a fragment of **The World Tree**, which is said to be older than recorded time. The Grove is where druids and wild Fey gather, and is the seat of the **Archdruid**, a being of immense power, who picks out their heir from their students. The forest faced a decay of **The World Tree** causing the grove to transform into a swamp, which started to cause massive panic to the forest nymphs and Wood Elves. With their current Archdruid, **Faelwyn Oakenshade** in Thelidorei, the responsibility of finding a cure fell upon her apprentice.
 
 Major Locations
