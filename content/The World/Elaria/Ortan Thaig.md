@@ -10,10 +10,10 @@ The militaristic might of Ortan Thaig has no rivals due to the weapons that they
 A surface-dwelling city that acts as the face of Ortan Thaig to the rest of the isles. While trade and diplomacy flow through it, the culture remains dwarven to the core: honor, craft, and strength. Its forges run day and night, producing the finest weapons and armor exported across the Triumvirate. The governing **Iron Council** made up of **Commander Arden** and **Commander Kiliinn** answer directly to the **General Dasoreth** in Cragmore.
 
 Major Locations
-- Forgehall - Center of the City - Grand smithing quarter filled with blacksmiths, armorsmiths, rune-crafters, and enchanters. Magma channels run beneath to heat the entire sector.
+- **Forgehall** - Center of the City - Grand smithing quarter filled with blacksmiths, armorsmiths, rune-crafters, and enchanters. Magma channels run beneath to heat the entire sector.
 - **Granite Bastion** – Northern gate – Defensive structure housing the barracks and training fields for Durangal’s militia.
 - **Cairn’s Ember Inn** – South district – Popular drinking hall for mercenaries and visiting traders, run by a former dwarven bard named **Kurgan Hallowhelm**.
--  **Shrine of Onatar** – East district – A revered temple to the god of the forge, where many dwarves bless their first hammer and final blade.
+- **Shrine of Onatar** – East district – A revered temple to the god of the forge, where many dwarves bless their first hammer and final blade.
 
 <h4>Cragmore</h4>
 
