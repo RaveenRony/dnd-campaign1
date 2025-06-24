@@ -6,7 +6,7 @@ The Triumvirate convene once every season at the Wizard Tower in Greenhaven, whe
 <h4>Founders</h4>
 
 **King Arthur Grant II** <br>
-A visionary monarch of [[Azeroth]], Arthur was the first to extend a hand in diplomacy, understanding that human short-sightedness would spell ruin in the face of the long-lived elves and the iron-willed dwarves. Known as **The Silver Hawk**, he is revered for his ability to command both battlefield and council room, though he now suffers from age. Arthur sees the Triumvirate not just as a treaty, but as humanity’s final legacy.
+The visionary monarch of [[Azeroth]], Arthur was the first to extend a hand in diplomacy, understanding that human short-sightedness would spell ruin in the face of the long-lived elves and the iron-willed dwarves. Known as **The Silver Hawk**, he is revered for his ability to command both battlefield and council room, though he now suffers from age. Arthur sees the Triumvirate not just as a treaty, but as humanity’s final legacy.
 
 **General Dassoreth** <br>
 Supreme commander of [[Ortan Thaig]]’s iron legions, General Dassoreth speaks for the dwarves. A blunt, battle-worn woman of few words and fewer regrets, she values strength and loyalty above all else. She was the second to agree to the treaty and extend the hand to the Elves in Seluris. While others see alliances as tools, Dassoreth treats the Triumvirate like an oath bound in blood — any betrayal would be answered in steel. 
