@@ -27,6 +27,5 @@ The deeper one goes, the more lifelike the statues become — until one realizes
 
 <h4>Obel’s Maw</h4>
 
-![[static/images/obels-maw.png|400]]
-
+![[static/images/obels-maw.png|400]] <br>
 A massive sinkhole surrounded by pillars of stone. The walls are carved with runes no scholar can decipher. It draws people into it — sometimes literally, as desert travelers vanish near its edge. Some say it’s a “reverse mountain” pulling the world into the void. Strange winds spiral up from the pit, carrying with them voices of long-dead astrologers and mad priests. At the very bottom lies a **star-forged door** etched with constellations that do not appear in any known sky. It is rumoured to have been the third temple which was dedicated to **Obel**, a sky deity, the god of falling stars and celestial order. It was rumoured that the Dark Eight turned it into the sinkhole that is said to exist due to a ritual that was deemed unforgivable. 

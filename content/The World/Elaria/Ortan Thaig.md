@@ -8,7 +8,6 @@ The militaristic might of Ortan Thaig has no rivals due to the weapons that they
 <h4>Durangal</h4>
 
 ![[static/images/durangal.png|500]] <br>
-
 A surface-dwelling city that acts as the face of Ortan Thaig to the rest of the isles. While trade and diplomacy flow through it, the culture remains dwarven to the core: honor, craft, and strength. Its forges run day and night, producing the finest weapons and armor exported across the Triumvirate. The governing **Iron Council** made up of **Commander Arden** and **Commander Kiliinn** answer directly to the **General Dasoreth** in Cragmore.
 
 Major Locations
