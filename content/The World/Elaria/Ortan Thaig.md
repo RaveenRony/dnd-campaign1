@@ -3,7 +3,7 @@
 
 The dwarven kingdom of Ortan Thaig is carved deep into the mountains and hearts of its people. A land ruled by militaristic might and honor, its cities are marvels of engineering and durability. While dwarves of old forged kingdoms underground, Ortan Thaig blends tradition with innovation, using massive gearworks and magma-powered foundries to fuel its industry. In this era, it is the bastion of smithing, warfare, and mechanical ingenuity among the Shattered Isles. But whispers grow in the mines of things awakening deep below — ancient forges gone cold now roar once more.
 
-The militaristic might of Ortan Thaig has no rivals due to the weapons that they wield. This made them one of the more stronger voices when trade deals among [[The Triumvirate]] were made. Their leader **General Dasoreth** (Female) helped King Arthur Grant II of [[Azeroth]] mediate the terms with [[Seluris]]. The main trade from the island is their rare ores and magical weapons, they are also in charge of training the Order of Knights that guard the Palace of both Azeroth and Seluris. 
+The militaristic might of Ortan Thaig has no rivals due to the weapons that they wield. This made them one of the more stronger voices when trade deals among [[The Triumvirate]] were made. Their leader **General Dassoreth** helped King Arthur Grant II of [[Azeroth]] mediate the terms with [[Seluris]]. The main trade from the island is their rare ores and magical weapons, they are also in charge of training the Order of Knights that guard the Palace of both Azeroth and Seluris. 
 
 <h4>Durangal</h4>
 

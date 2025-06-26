@@ -1,7 +1,7 @@
 *"The Dominion of Blood"* <br>
 *Tribal Community, Brutality and Spiritual Warfare*
 
-Once known as **The Wyld**, this beautiful island was teeming with life and was shared peacefully by Orcish clans and Human settlements. The two species lived in harmony for nearly 600 years after **The Shattering** — until something primal awoke within the Orcs. A rage unlike any before swept through their clans, driving them to unite and expel all outsiders, which they successfully did in the year 598. The mysterious phenomenon that sparked this fury remains unexplained, unknown to both past and present scholars.
+Once known as **The Wyld**, this beautiful island was teeming with life and was shared peacefully by Orcish clans and Human settlements. The two species lived in harmony after **The Shattering** — until something primal awoke within the Orcs. A rage unlike any before swept through their clans, driving them to unite and expel all outsiders, which they successfully did by the year 988. The mysterious phenomenon that sparked this fury remains unexplained, unknown to both past and present scholars.
 
 Now, the isle pulses with the sound of war drums and the scent of smoke, as its people seek to reclaim ancient honor through conquest, ritual, and strength. Their current leader, **Warlord Ghor'nak**, has unified nearly all of the major clans into a new tribe known as **Kog Zeguro** — the name now given to the island itself. However, two clans, **Nor Grutta** and **Rakun**, remain in defiance, locked in bitter conflict with the dominant tribe.
 
